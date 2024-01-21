@@ -1,0 +1,3 @@
+[submodule "hexo-theme-zen"]
+	path = hexo-theme-zen
+	url = git@github.com:mouyase/hexo-theme-zen.git
