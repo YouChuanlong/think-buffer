@@ -2,7 +2,7 @@ favicon: favicon.jpg
 
 menu:
   首页: /
-  关于: about.html
+  关于: about/me
 
 copyright:
   name: YouChuanlong
